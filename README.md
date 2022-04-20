@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TheoGimenez7
-- 👀 I’m interested in video Game Programming, spacial engeneering and many other things
+- 👀 I’m interested in video Game Programming, spatial engineering and many other things
 - 🌱 I’m currently learning OpenGL
