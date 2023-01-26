@@ -8,6 +8,7 @@ I speak fluently `french`, `english` and many programming languages. You can see
 ## 🔥 I’m currently working on
 
 - 🌱 I’m currently learning Web Development and other programming languages
+- 🖥 I’m trying to make a CI CD project for Unreal Engine
 - 👀 I’m interested in video Game Programming, spatial engineering and many other things
 
 ## 🧰 My developper toolbox
