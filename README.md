@@ -39,7 +39,7 @@ _and many others!_
 ## 📈 Here is some stats
 
 <div>
-  <a href="https://github.com/gableroux">
+  <a href="https://github.com/TheoGimenez7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoGimenez7&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGimenez7&layout=compact&langs_count=15&theme=radical"/>
   </a>
